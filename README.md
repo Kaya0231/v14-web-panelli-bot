@@ -4,7 +4,7 @@
 
 # Açıklama
 
-• Toplamda 6 bot bulunuyor guardlar yok
+
 
 • Botlar hem gelişmiş hem kullanışlıdır içerisinde public sunucularda bulunan çoğu sistem mevcuttur.
 
