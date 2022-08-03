@@ -1,6 +1,6 @@
 # V14 Web Panelli Bot
 
-# 100 Star + 35 Fork
+# 200 Star + 50 Fork
 
 # Açıklama
 
